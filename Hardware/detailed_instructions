@@ -1,1 +1,52 @@
-This is the space for students of the course to produce their improved step-by-step instructions. 
+Step by step instructions for 3D printing
+
+Step 1-9: Preparing the files for printing 
+Step 10-16: Preparing the printer
+
+Step 1: Download the files from the hardware folder containing the components we want to print.
+Step 1.1 (optional): You can vieuw the files if wanted in shareCAD.org or other preferred website.
+Step 2: Put the downloaded files on USB stick.
+Step 3: Log into the computer in Lili's protolab. Open Prusaslicer version 2.9.4.
+Step 4: Upload files from usb into the the program.  Place each part evenly on the plate with enough distance between them.
+Step 5: When placing the parts on the plate, the general idea is that the largest surface is on the plate,
+making the object more stable and less support is needed when printing the structure.
+  -Make sure the 'topplate' and 'drivegear' are turned around. Get it so that the largest surface is on the plate.
+Step 6: Open the setting: 'support' and click on 'support everywhere'. This makes it so that the object you are printing doesnt collapse. 
+After printing you can take out the added support structures.
+Step 7: Select a printer with a 0.4 nozzle printing with ECO PLA [make sure to select the type of PLA matching the fillament you will choose in Step 12]. 
+step 8:  Click 'slice now'. This shows how the layers are printed.
+Step 9: Check with the TA if the setup is decent.
+Step 10: Either save the document on USB stick and insert it into the selected printer and follow steps 11 - 16, or follow step 10.1
+Step 10.1: Follow steps 10 - 15 and then click the G button in the lower right corner that sends the file to the printer.
+
+Step 11: Clean the plate of the printer you have selected in Step 7. First take off any plastic pieces with the blue scraper.
+After this, clean it with isopropanol and paper towels. Make sure it is dry.
+Step 12: Pick the color you want to print with (make sure you use a EcoPLA filament that matches the setting selected in Step 7).
+Step 13 (only if changing the fillament) : On the printer screen, select 'fillament' and then 'unload fillament'. 
+This gets rid of the current fillament in the nozzle. Take out the unwanted fillament and put the roll back on the shelf. Make sure the wire is looped thourg the holes when putting back the roll.
+Step 14: Insert the roll of chosen fillament, and wire it through the guider. Put the fillament in the nozzle. and select 'load fillament' if it doesn't already select this automatically. Select PLA 
+Step 15: Look at the colour coming out of the nozzle, let it continue printing till the nozzle exerts the selected color. When achieved, take out the printed stuff and throw it away.
+Step 16: Press 'print' and select the uploaded files on the USB stick. 
+
+Making the applyance:
+
+Step 17: After the 3d printer finish, use a knife to take off the supports.
+Step 18: Look at the instructions.svg to know how to assembly all the parts together.(NoTE: The spacers and screws use for the gears are plastic ones). You can find them at
+the green drawer as"plastic screws" and "plastic washers".
+Step 19 (Motor&Drivegear): Go into LPL and look at drawer 4 of electrical applyances, find a DC motor with a pin of 1.9mm. Check if the pin fits in the drive gear. 
+Step 20: Find the shaft friction distributer also in drawer 4 of the electrical applyances in lpl.
+Step 21: Find bolts and gears of a 3mm diameter. 
+Step 22: In the green drawer look for ball bearings, take one that fits.
+Step 23: From the H drawer take a rubber tube that fits into the engaging gear "E"(the one that is a bit yellow, you can check the picture "")
+Step 24: Add a bit of blue tape around the rubber tube to make sure the shaft distributor fits and doesn't move.
+Step 25: To make friction with the spinning plate, add some rubber rings (from the F drawer) to the shaft distributer with the aim to add friction between 
+the spinning plate and the shaft distributer.
+Step 26: Introduce the drive gear into the support, and fix it to the table. Add a cutting board below the spinning plate so it doesn't touch the support.
+Step 26: Finally screw the shaft distributer, at a height that the rubber around the shaft distributor touches the spinning plate.
+Step 27: Now, it's turn to power up the engine, use the the power supply! 
+Step 28: To help with this, we have uploaded some imeges that might be helpful. You can find them in the folder "IMAGES_SETUP". Where "Experimental_setup_1""2""3""4" shows how 
+everythin has to be place to make the spinning plate to spin. "drivegear_complete" shows how the final drive gear is. "results_8rpm" shows a picture of our constant results
+that you should make. "Video_example" shows how everything works once the power supply is on. Finally, just for fun, increase the voltage to see how many rpm you can achieve,
+we did 47 rpm!("47rmp.mp4")
+
+
